@@ -3,7 +3,7 @@
 var path = require('path');
 var extend = require('extend-shallow');
 var isNegated = require('is-negated-glob');
-var isAbsolute = require('is-absolute');
+var isAbsolute = require('path-is-absolute');
 
 module.exports = function(glob, options) {
   // shallow clone options

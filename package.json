@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "is-absolute": "^0.2.5",
-    "is-negated-glob": "^1.0.0"
+    "is-negated-glob": "^1.0.0",
+    "path-is-absolute": "^1.0.1"
   },
   "devDependencies": {
     "gulp-format-md": "^0.1.10",
